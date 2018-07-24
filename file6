@@ -1,5 +1,0 @@
-#include<stdio.h>
-main()
-{
-printf("in file 6\n");
-}
